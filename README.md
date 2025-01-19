@@ -5,5 +5,5 @@ Desenvolvi o projeto para praticar conceitos fundamentais de Android, como naveg
 - Navegação entre Activities e Intents.<br>
 - Validação de formulários e criação de estilos.<br>
 - Manipulação de listas dinâmicas com RecyclerView.<br>
-- Persistência de dados usando SQLite.<br>
+- Persistência de dados usando Room.<br>
 - Implementação de menus e dialogs.
