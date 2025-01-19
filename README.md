@@ -1,4 +1,4 @@
-O Fitness Track é um aplicativo Android desenvolvido para calcular o IMC (Índice de Massa Corporal) e a TMB (Taxa de Metabolismo Basal), criado como parte do curso Treinamento Android Express. <br><br>
+O Fitness Track é um aplicativo Android desenvolvido para calcular o IMC (Índice de Massa Corporal) e a TMB (Taxa de Metabolismo Basal). <br><br>
 Desenvolvi o projeto para praticar conceitos fundamentais de Android, como navegação entre telas, criação de formulários, uso de RecyclerView, persistência de dados com SQLite e customização de interfaces.
 
 <br>Aprendizados:<br>
